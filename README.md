@@ -17,5 +17,5 @@ Detailed instructions can be found in [ONLYOFFICE API documentation](https://api
 
 ## Known issues
 
-There may be an issue  Google Chrome browser, there may be problems with accessing cookies. To fix that, go to your Chrome settings:
+There may be an issue with accessing cookies in Google Chrome browser. To fix that, go to your Chrome settings:
 Settings -> Privacy and security -> Cookies and other site data and enable the Allow all cookies option. 
