@@ -1,3 +1,7 @@
+## Information
+
+This repository is an archive of plugin-rainbow. Now it moved to the marketplace repository [onlyoffice.github.io](https://github.com/ONLYOFFICE/onlyoffice.github.io/tree/master/sdkjs-plugins/content).
+
 ## Overview
 
 Communicate with your team, exchange instant messages and make video and voice calls using Rainbow right in the ONLYOFFICE editors. 
